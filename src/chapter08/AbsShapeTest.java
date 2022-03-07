@@ -1,3 +1,4 @@
+/*
 package chapter08;
 
 import java.awt.Rectangle;
@@ -21,3 +22,4 @@ public class AbsShapeTest {
         System.out.println(as2.length());
     }
 }
+*/

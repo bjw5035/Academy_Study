@@ -1,3 +1,4 @@
+/*
 package chapter08;
 
 import java.awt.Point;
@@ -17,3 +18,4 @@ public class DrawShape {
         Triangle t = new Triangle(p);
     }
 }
+*/

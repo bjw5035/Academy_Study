@@ -1,3 +1,4 @@
+/*
 package chapter08;
 
 import java.awt.Point;
@@ -18,3 +19,4 @@ public abstract class Circle extends Shape {
         System.out.print("[center=(%d,%d), r=%d, c=%s]\n",center.x, center.y, r, color);
     }
 }
+*/
