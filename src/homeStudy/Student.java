@@ -7,6 +7,14 @@ public class Student {
     int grade;
     String address;
 
+    public Student(int studentId) {
+        this.studentId = studentId;
+
+    }
+
+    public Student() {
+
+    }
     public String getStudentName() {
         return studentName;
     }
