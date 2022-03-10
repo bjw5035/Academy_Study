@@ -9,7 +9,7 @@ public class BufferedReaderTest {
         BufferedReader bfr = null;
 
         try {
-            fi = new FileInputStream("sample.txt");
+            fi = new FileInputStream("sample.csv");
             isr = new InputStreamReader(fi);
             bfr = new BufferedReader(isr);
 
